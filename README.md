@@ -16,3 +16,4 @@ Hi there, My name is Jonas and I am a student Multimedia & Creative Technologies
 
 
 If all of these steps are followed correctly you'll have an nice automatic longboard :).
+(If there are any problems just leave a comment on my instructable.
