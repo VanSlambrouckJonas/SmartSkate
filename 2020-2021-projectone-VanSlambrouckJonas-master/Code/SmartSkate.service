@@ -1,0 +1,14 @@
+[Unit]
+Description=My service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/student/2020-2021-projectone-Diero/Code/Backend/app.py 
+WorkingDirectory=/home/student/2020-2021-projectone-Diero/Code/Backend
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=student
+
+[Install]
+WantedBy=multi-user.target
