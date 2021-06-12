@@ -5,7 +5,7 @@ Hi there, My name is Jonas and I am a student Multimedia & Creative Technologies
 '
 '
 
-**step 1**: Download the iso file and put it on your raspberry pi 4.
+**step 1**: Download Raspbian and write the immage file on your raspberry pi 4 SD-card.
 
 **step 2**: Power on the raspberry and plug in an ethernet cable.
 
